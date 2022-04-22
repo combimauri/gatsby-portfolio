@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://combimauri.com`,
     siteDescription: `combimauri - Portfolio`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/combimauri.jpeg`,
     author: `@combimauri`,
   },
   plugins: [
